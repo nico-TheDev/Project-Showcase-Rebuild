@@ -49,7 +49,7 @@ filterInput.addEventListener('change',()=>{
         if (filterInput.value === 'all'){
             card.style.display = 'block';
         }
-        if (card.dataset.level === filterInput.value){
+        else if (card.dataset.level === filterInput.value){
             card.style.display = 'block';
         }
         else{
