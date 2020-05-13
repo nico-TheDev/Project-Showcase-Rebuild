@@ -327,6 +327,10 @@ button{
     grid-template-columns: repeat(auto-fill,minmax(15rem,1fr));
     grid-gap: 2rem;
 
+    @media only screen and (max-width:500px){
+        justify-items: center;
+    }
+
 }
 
 .footer{

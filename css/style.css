@@ -386,6 +386,12 @@ button {
   grid-gap: 2rem;
 }
 
+@media only screen and (max-width: 500px) {
+  .showcase {
+    justify-items: center;
+  }
+}
+
 .footer {
   padding: 1rem 0;
   background-color: black;
