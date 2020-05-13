@@ -44,8 +44,9 @@ themeBtn.addEventListener('click',()=>{
 let filterInput = document.querySelector('.search__filter');
 
 filterInput.addEventListener('change',()=>{
+    console.log(filterInput.value);
     cardTile.forEach(card=>{
-        if (card.dataset.level === 'all'){
+        if (filterInput.value === 'all'){
             card.style.display = 'block';
         }
         if (card.dataset.level === filterInput.value){
