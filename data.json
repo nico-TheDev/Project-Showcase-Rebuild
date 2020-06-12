@@ -19,7 +19,7 @@
             "img":"./img/huddle-single.jpg",
             "level":"Newbie",
             "demo_link":"https://huddle-single-landing-page.netlify.app",
-            "repo_link":"https://github.com/theAspiringDev1/Huddle-Landing-Page-Single/tree/master/huddle-landing-page-with-single-introductory-section-master"
+            "repo_link":"https://github.com/theAspiringDev1/Huddle-single-landing-page"
         },
         {
             "title": "Fylo Landing Page",
@@ -146,6 +146,20 @@
             "level":"Intermediate",
             "demo_link":"https://static-job-listing-opal.now.sh/",
             "repo_link":"https://github.com/theAspiringDev1/Static-Job-Listing"
+        },
+        {
+            "title": "URL Shortener",
+            "img":"./img/url.jpg",
+            "level":"Intermediate",
+            "demo_link":"https://url-shortener-by-nico.netlify.app/",
+            "repo_link":"https://github.com/theAspiringDev1/URL-Shortening"
+        },
+        {
+            "title": "Fylo Storage",
+            "img":"./img/storage.jpg",
+            "level":"Newbie",
+            "demo_link":"https://fylo-storage.netlify.app/",
+            "repo_link":"https://github.com/theAspiringDev1/Fylo-Storage"
         }
     ]
 
