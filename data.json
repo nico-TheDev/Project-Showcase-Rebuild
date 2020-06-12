@@ -107,8 +107,8 @@
         },
         {
             "title": "Easybank Landing Page",
-            "img":"./img/insure.jpg",
-            "level":"Junior",
+            "img":"./img/easybank.jpg",
+            "level":"Intermediate",
             "demo_link":"https://easybank-by-nico.netlify.app",
             "repo_link":"https://github.com/theAspiringDev1/Easybank-Landing-Page"
         },
