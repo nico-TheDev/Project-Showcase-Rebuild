@@ -1,6 +1,6 @@
 {
     "data":[
-        {
+        { 
             "title": "Four Cards Feature",
             "img":"./img/four-card.jpg",
             "level":"Newbie",
@@ -160,6 +160,13 @@
             "level":"Newbie",
             "demo_link":"https://fylo-storage.netlify.app/",
             "repo_link":"https://github.com/theAspiringDev1/Fylo-Storage"
+        },
+        {
+            "title": "Rock Paper Scissors",
+            "img":"./img/game.jpg",
+            "level":"Advanced",
+            "demo_link":"https://rockpaperscissorsbynico.netlify.app/",
+            "repo_link":"https://github.com/theAspiringDev1/RockPaperScissors"
         }
     ]
 
